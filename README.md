@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Michail Kustikov</h1>
-<h3 align="center">Also known as Ferundal, i <a href="https://www.youtube.com/c/Ferundal" target="blank">play games</a> and making them</h3>
+<h1 align="center">Hi 👋, I'm Valentin Galperin</h1>
+<h3 align="center">Also known as god1385, i play games and make them
 
 - 🔭 I’m currently working on **Personal Pet Project**
 
@@ -7,13 +7,10 @@
 
 <h3 align="left">Contacts:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/michail-kustikov"><img align="center" src="images/Contacts/linked-in-alt.png" alt="Ferundal" height="30" width="30" /></a> <a href="https://www.linkedin.com/in/michail-kustikov" target="blank">Michail Kustikov</a>
+<a href="https://galperin2000@gmail.com" target="blank"><img align="center" src="images/Contacts/Gmail_Logo.png" alt="Galperin Valentin" height="30" width="30" /></a> <a href="https://galperin2000@gmail.com" target="blank"> galperin2000@gmail.com</a>
 </p>
 <p align="left">
-<a href="https://ferundal@gmail.com" target="blank"><img align="center" src="images/Contacts/Gmail_Logo.png" alt="Ferundal" height="30" width="30" /></a> <a href="https://ferundal@gmail.com" target="blank"> ferundal@gmail.com</a>
-</p>
-<p align="left">
-<a href="https://t.me/ferundal" target="blank"><img align="center" src="images/Contacts/telegram-logo.png" alt="Ferundal" height="30" width="30" /></a> <a href="https://t.me/ferundal" target="blank">@ferundal</a>
+<a href="https://t.me/bobik1385" target="blank"><img align="center" src="/Users/macbook/Documents/GitHub/god1385/Telegram_logo.svg.webp" alt="Ferundal" height="30" width="30" /></a> <a href="https://t.me/bobik1385" target="blank">@bobik1385</a>
 </p>
 <p align="left">
 <a href="https://discordapp.com/users/Ferundal#7929" target="blank"><img align="center" src="images/Contacts/discord-logo.png" alt="Ferundal" height="30" width="30" /></a> <a href="https://discordapp.com/users/Ferundal#7929" target="blank">Ferundal#7929</a>

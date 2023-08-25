@@ -10,7 +10,7 @@
 <a href="https://galperin2000@gmail.com" target="blank"><img align="center" src="images/Contacts/Gmail_Logo.png" alt="Gmail" height="30" width="30" /></a> <a href="https://galperin2000@gmail.com" target="blank"> galperin2000@gmail.com</a>
 </p>
 <p align="left">
-<a href="https://t.me/bobik1385" target="blank"><img align="center" src="Users/macbook/Documents/GitHub/god1385/Telegram_logo.svg.webp" alt="Telegramm" height="30" width="30" /></a> <a href="https://t.me/bobik1385" target="blank">@bobik1385</a>
+<a href="https://t.me/bobik1385" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="Telegramm" height="30" width="30" /></a> <a href="https://t.me/bobik1385" target="blank">@bobik1385</a>
 </p>
 <p align="left">
 <a href="https://discordapp.com/users/Ferundal#7929" target="blank"><img align="center" src="images/Contacts/discord-logo.png" alt="Ferundal" height="30" width="30" /></a> <a href="https://discordapp.com/users/Ferundal#7929" target="blank">Ferundal#7929</a>

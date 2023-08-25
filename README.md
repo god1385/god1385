@@ -10,7 +10,7 @@
 <a href="https://galperin2000@gmail.com" target="blank"><img align="center" src="images/Contacts/Gmail_Logo.png" alt="Gmail" height="30" width="30" /></a> <a href="https://galperin2000@gmail.com" target="blank"> galperin2000@gmail.com</a>
 </p>
 <p align="left">
-<a href="https://t.me/bobik1385" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ATelegram_logo.svg&psig=AOvVaw36r9KnGQrBCXEP6b3HzHTi&ust=1693055914163000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKj5qvTy94ADFQAAAAAdAAAAABAE" alt="Telegramm" height="30" width="30" /></a> <a href="https://t.me/bobik1385" target="blank">@bobik1385</a>
+<a href="https://t.me/bobik1385" target="blank"><img align="center" src="https://commons.wikimedia.org/wiki/File:Telegram_logo.svg" alt="Telegramm" height="30" width="30" /></a> <a href="https://t.me/bobik1385" target="blank">@bobik1385</a>
 </p>
 <p align="left">
 <a href="https://discordapp.com/users/Ferundal#7929" target="blank"><img align="center" src="images/Contacts/discord-logo.png" alt="Ferundal" height="30" width="30" /></a> <a href="https://discordapp.com/users/Ferundal#7929" target="blank">Ferundal#7929</a>

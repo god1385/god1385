@@ -59,73 +59,30 @@ Unity become my first step in the game development. Inside sections projects sor
 Following projects was made during my education in russian campus of <a href="https://en.wikipedia.org/wiki/42_(school)" target="blank">Ecole 42</a> programming school. From latest to oldest.
 
 + <details>
-    <summary><a href="https://github.com/Ferundal/Piscine_Java" target="blank">Piscine_Java</a></summary>
+    <summary><a href="https://github.com/god1385/so_long" target="blank">So_Long</a></summary>
 
-    Intensive course covering topics from Java Core (including, Reflection API, Collections, JDBC and Multi-Threading) to Spring & Sockets.
+    Small game in 2D, written in C. Aim of the game is to collect coins on the map, which is parsed every turn and. Small sprites animation and AI included.
    </details>
 + <details>
-    <summary><a href="https://github.com/Ferundal/Inception" target="blank">Inception</a></summary>
+    <summary><a href="https://github.com/god1385/Philosophers" target="blank">Philosophers</a></summary>
 
-    System Administration related exercise. 
-
-    Few independent Docker containers (NGINX, WordPress, MariaDB) connected to docker-network and deployed with the docker-compose.
+        The Dining Philosopher Problem meet me with multitreading and multiprocessing. Mutexs, semaphores and etic.
    </details>
 + <details>
-    <summary><a href="https://github.com/Ferundal/ft_irc" target="blank">ft_irc</a></summary>
+    <summary><a href="https://github.com/god1385/push_swap" target="blank">Push_swap</a></summary>
 
-    Server for IRC chat protocol. Proceed user registration, private and group chat messages.
-
-    What is new? Sockets. Also includes bot, who help save moderator privileges in chosen chat.
+    Sorting of two stacks of integers using radix sorting method
    </details>
 + <details>
-    <summary><a href="https://github.com/Ferundal/minishell" target="blank">minishell</a></summary>
+    <summary><a href="https://github.com/god1385/CPP-Modules" target="blank">CPP-Modules</a></summary>
 
-    Bash written by me. Multiprocessing, pipes, environment variables.
+    Collection of tasks, aimed at learing C++ language and getting to know the basics and advanced issues related to the C++.
     
     Code follow <a href="https://github.com/42School/norminette/blob/master/pdf/en.norm.pdf" target="blank">specific Ecole 42 code style</a>.
    </details>
 + <details>
-    <summary><a href="https://github.com/Ferundal/philosopher" target="blank">philosopher</a></summary>
+    <summary><a href="https://github.com/god1385/minitalk" target="blank">Minitalk</a></summary>
 
-    The Dining Philosopher Problem meet me with multitreading and multiprocessing. Mutexs, semaphores and etic.
-    
-    Code follow <a href="https://github.com/42School/norminette/blob/master/pdf/en.norm.pdf" target="blank">specific Ecole 42 code style</a>.
-   </details>
-+ <details>
-    <summary><a href="https://github.com/Ferundal/libasm" target="blank">libasm</a></summary>
-
-    First meeting with low-level programming. Recode of standart C library funtions in Assembler.
-
-    Gives me basic knowledge about function calling convention and stack alignment.
-   </details>
-+ <details>
-    <summary><a href="https://github.com/Ferundal/cube3d/tree/master#readme" target="blank">cube3d</a></summary>
-
-    Simple raycast game engine written on C.
-
-    Project uses external School 21 output library - minilibx.
-    
-    <a href="https://www.youtube.com/watch?v=c4ySvMEBvGM" target="blank"><img src="http://img.youtube.com/vi/c4ySvMEBvGM/0.jpg" alt="Roll Ball" width="500" height="300"></a>
-    
-    Code follow <a href="https://github.com/42School/norminette/blob/master/pdf/en.norm.pdf" target="blank">specific Ecole 42 code style</a>.
-   </details>
-+ <details>
-    <summary><a href="https://github.com/Ferundal/ft_server" target="blank">ft_server</a></summary>
-
-    Devops project. Dockerfile build Docker container with Nginx + MariaDB + Wordpress + phpMyAdmin and start it.
-   </details>    
-+ <details>
-    <summary><a href="https://github.com/Ferundal/ft_printf/tree/master#readme" target="blank">ft_printf</a></summary>
-
-    Recode of C standard library printf. First meet with variadic functions.
-    
-    Code follow <a href="https://github.com/42School/norminette/blob/master/pdf/en.norm.pdf" target="blank">specific Ecole 42 code style</a>.
-   </details>
-+ <details>
-    <summary><a href="https://github.com/Ferundal/Libft" target="blank">Libft</a></summary>
-
-    First project as a student at 42. Just recode a few functions of the C standard library as well as some other utility functions that i will use during your whole cursus.
-    
-    Code follow <a href="https://github.com/42School/norminette/blob/master/pdf/en.norm.pdf" target="blank">specific Ecole 42 code style</a>.
+    Small project aimed at introduction to UNIX skills and creating small data exchange program
    </details>
 </details>

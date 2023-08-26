@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Valentin Galperin</h1>
-<h3 align="center">Also known as god1385, i play games and make them
+<h3 align="center">Also known as god1385, i am in love with games and in making them.
 
 - 🔭 I’m currently working on **Personal Pet Project**
 

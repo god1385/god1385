@@ -22,7 +22,7 @@
 
 
 <details>
-<summary><a href="#"><img src="images/Unity/Unity_logo.png" alt="Unity" width="11" height="11" /></a> Unity</summary>
+<summary><a href="#"><img src="https://w7.pngwing.com/pngs/158/553/png-transparent-unity-technologies-video-games-3d-computer-graphics-software-developer-3ds-max-logo-thumbnail.png" alt="Unity" width="11" height="11" /></a> Unity</summary>
 
 Unity become my first step in the game development. Inside sections projects sorted from latest to oldest.
 

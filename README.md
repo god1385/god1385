@@ -136,7 +136,7 @@ Unity become my first step in the game development. Inside sections projects sor
 </details>
 
 <details>
-    <summary><a href="#"><img src="images/42_Logo.png" alt="Ecole 42" width="11" height="11"></a> Ecole 42</summary>
+    <summary><a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/42_Logo.svg/240px-42_Logo.svg.png" alt="Ecole 42" width="11" height="11"></a> Ecole 42</summary>
     
 
 Following projects was made during my education in russian campus of <a href="https://en.wikipedia.org/wiki/42_(school)" target="blank">Ecole 42</a> programming school. From latest to oldest.

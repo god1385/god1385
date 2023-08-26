@@ -57,9 +57,6 @@ Unity become my first step in the game development. Inside sections projects sor
     
 
 Following projects was made during my education in russian campus of <a href="https://en.wikipedia.org/wiki/42_(school)" target="blank">Ecole 42</a> programming school. From latest to oldest.
-<p align="center">
-<img src="https://badge42.vercel.app/api/v2/cl610h7il008209ii106oamsp/stats?cursusId=21&coalitionId=99" img align="center" alt="cjettie's 42 stats">
-</p>
 
 + <details>
     <summary><a href="https://github.com/Ferundal/Piscine_Java" target="blank">Piscine_Java</a></summary>

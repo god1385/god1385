@@ -50,6 +50,7 @@ Unity become my first step in the game development. Inside sections projects sor
     
     <a href="https://www.youtube.com/watch?v=AVE7itGTmLs" target="blank">Gameplay Video</a>
    </details>
+</details>
 
 <details>
     <summary><a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/42_Logo.svg/240px-42_Logo.svg.png" alt="Ecole 42" width="11" height="11"></a> Ecole 42</summary>

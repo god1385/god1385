@@ -66,7 +66,7 @@ Following projects was made during my education in russian campus of <a href="ht
 + <details>
     <summary><a href="https://github.com/god1385/Philosophers" target="blank">Philosophers</a></summary>
 
-        The Dining Philosopher Problem meet me with multitreading and multiprocessing. Mutexs, semaphores and etic.
+    The Dining Philosopher Problem meet me with multitreading and multiprocessing. Mutexs, semaphores and etic.
    </details>
 + <details>
     <summary><a href="https://github.com/god1385/push_swap" target="blank">Push_swap</a></summary>

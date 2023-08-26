@@ -27,7 +27,7 @@
 Unity become my first step in the game development. Inside sections projects sorted from latest to oldest.
 
 + <details>
-    <summary><a href="#"><img src="images/Unity/Unity_logo.png" alt="Unity" width="11" height="11" /></a> Ghost's Wokshop</summary>
+    <summary><a href="#"><img src="https://w7.pngwing.com/pngs/158/553/png-transparent-unity-technologies-video-games-3d-computer-graphics-software-developer-3ds-max-logo-thumbnail.png" alt="Unity" width="11" height="11" /></a> Ghost's Wokshop</summary>
 
     Ghost's Wokshop is a short interactive story about family, art and passing.
 
@@ -40,7 +40,7 @@ Unity become my first step in the game development. Inside sections projects sor
    </details>
 
 + <details>
-    <summary><a href="#"><img src="images/Unity/Unity_logo.png" alt="Unity" width="11" height="11" /></a> Robot Walks</summary>
+    <summary><a href="#"><img src="https://w7.pngwing.com/pngs/158/553/png-transparent-unity-technologies-video-games-3d-computer-graphics-software-developer-3ds-max-logo-thumbnail.png" alt="Unity" width="11" height="11" /></a> Robot Walks</summary>
 
     Mobile shooter game prototype, work in progress
 
@@ -49,19 +49,6 @@ Unity become my first step in the game development. Inside sections projects sor
     <a href="https://github.com/Ferundal/Robot_Walks">GitHub Repository</a>
     
     <a href="https://www.youtube.com/watch?v=AVE7itGTmLs" target="blank">Gameplay Video</a>
-   </details>
-
-+ <details>
-    <summary><a href="#"><img src="images/Unity/Unity_logo.png" alt="Unity" width="11" height="11" /></a> Kid. Mansion. Robots.</summary>
-
-    Third person controlled quest. The child found themselves locked inside a robot-controlled mansion and is searching for a way out.
-
-    <img src="https://img.youtube.com/vi/GJfLMSTq2Fk/0.jpg" alt="Kid. Mansion. Robots." width="500" height="300">
-    
-    <a href="https://github.com/Ferundal/Kid-Mansion-Robots">GitHub Repository</a>
-    
-    <a href="https://www.youtube.com/watch?v=GJfLMSTq2Fk" target="blank">Gameplay Video</a>
-    
    </details>
     
 + <details>

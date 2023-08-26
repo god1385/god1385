@@ -7,7 +7,7 @@
 
 <h3 align="left">Contacts:</h3>
 <p align="left">
-<a href="https://galperin2000@gmail.com" target="blank"><img align="center" src="images/Contacts/Gmail_Logo.png" alt="Gmail" height="30" width="30" /></a> <a href="https://galperin2000@gmail.com" target="blank"> galperin2000@gmail.com</a>
+<a href="https://galperin2000@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/320px-Gmail_Icon_%282013-2020%29.svg.png" alt="Gmail" height="30" width="30" /></a> <a href="https://galperin2000@gmail.com" target="blank"> galperin2000@gmail.com</a>
 </p>
 <p align="left">
 <a href="https://t.me/bobik1385" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/240px-Telegram_2019_Logo.svg.png" alt="Telegram" height="30" width="30" /></a> <a href="https://t.me/bobik1385" target="blank">@bobik1385</a>

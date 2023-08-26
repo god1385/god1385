@@ -13,7 +13,7 @@
 <a href="https://t.me/bobik1385" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/240px-Telegram_2019_Logo.svg.png" alt="Telegram" height="30" width="30" /></a> <a href="https://t.me/bobik1385" target="blank">@bobik1385</a>
 </p>
 <p align="left">
-<a href="https://discordapp.com/users/240520940981583874" target="blank"><img align="center" src="images/Contacts/discord-logo.png" alt="god1385" height="30" width="30" /></a> <a href="https://discordapp.com/users/240520940981583874" target="blank"></a>
+<a href="https://discordapp.com/users/240520940981583874" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/93/531/png-transparent-discord-computer-icons-logo-discord-logo-smiley-discord-thumbnail.png" alt="god1385" height="30" width="30" /></a> <a href="https://discordapp.com/users/240520940981583874" target="blank"></a>
 </p>
 
 ---

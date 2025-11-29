@@ -10,7 +10,7 @@
 <a href="https://galperin2000@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/320px-Gmail_Icon_%282013-2020%29.svg.png" alt="Gmail" height="30" width="30" /></a> <a href="https://galperin2000@gmail.com" target="blank"> galperin2000@gmail.com</a>
 </p>
 <p align="left">
-<a href="https://t.me/bobik1385" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/240px-Telegram_2019_Logo.svg.png" alt="Telegram" height="30" width="30" /></a> <a href="https://t.me/bobik1385" target="blank">@gbobd85</a>
+<a href="https://t.me/bobik1385" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/240px-Telegram_2019_Logo.svg.png" alt="Telegram" height="30" width="30" /></a> <a href="https://t.me/gbobd85" target="blank">@gbobd85</a>
 </p>
 <p align="left">
 <a href="https://discordapp.com/users/240520940981583874" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/669/539/png-transparent-logo-guessing-game-application-screenshot-discord-social-media-computer-icons-discord-icon-miscellaneous-blue-computer-wallpaper-thumbnail.png" alt="god1385" height="30" width="30" /></a> <a href="https://discordapp.com/users/240520940981583874" target="blank">god1385</a>

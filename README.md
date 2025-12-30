@@ -54,7 +54,7 @@ Unity became my first step in the game development. Inside sections projects sor
 
     <br>
 
-    <a href="https://github.com/yourname/EnemyAI">GitHub Repository</a>
+    <a href="https://github.com/god1385/enemy-ai-unity">GitHub Repository</a>
 
 </details>
 
@@ -88,7 +88,7 @@ Unity became my first step in the game development. Inside sections projects sor
     <summary><a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/42_Logo.svg/240px-42_Logo.svg.png" alt="Ecole 42" width="11" height="11"></a> Ecole 42</summary>
     
 
-Following projects was made during my education in russian campus of <a href="https://en.wikipedia.org/wiki/42_(school)" target="blank">Ecole 42</a> programming school. From latest to oldest.
+Following projects was made during my education in Russian campus of <a href="https://en.wikipedia.org/wiki/42_(school)" target="blank">Ecole 42</a> programming school. From latest to oldest.
 
 + <details>
     <summary><a href="https://github.com/god1385/so_long" target="blank">So_Long</a></summary>

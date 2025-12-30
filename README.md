@@ -23,14 +23,13 @@
   <img src="https://img.shields.io/badge/Game%20AI-FSM%20%7C%20SO-orange" />
 </p>
 
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=god1385&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=god1385&layout=compact&theme=tokyonight)
+
 
 ---
 <h3 align="left">My projects:</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=god1385&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=god1385&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
 
 
 <h2>🧠 Enemy AI System (Unity)</h2>

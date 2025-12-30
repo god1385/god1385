@@ -23,10 +23,6 @@
   <img src="https://img.shields.io/badge/Game%20AI-FSM%20%7C%20SO-orange" />
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=god1385&show_icons=true&theme=tokyonight&cache_seconds=86400)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=god1385&layout=compact&theme=tokyonight&cache_seconds=86400)
-
 
 ---
 <h3 align="left">My projects:</h3>

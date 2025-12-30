@@ -24,7 +24,39 @@
 <details>
 <summary><a href="#"><img src="https://w7.pngwing.com/pngs/158/553/png-transparent-unity-technologies-video-games-3d-computer-graphics-software-developer-3ds-max-logo-thumbnail.png" alt="Unity" width="11" height="11" /></a> Unity</summary>
 
-Unity become my first step in the game development. Inside sections projects sorted from latest to oldest.
+Unity became my first step in the game development. Inside sections projects sorted from latest to oldest.
+
++ <details>
+    <summary>
+        <a href="#">
+            <img src="https://w7.pngwing.com/pngs/158/553/png-transparent-unity-technologies-video-games-3d-computer-graphics-software-developer-3ds-max-logo-thumbnail.png"
+                 width="11" height="11" />
+        </a>
+        Enemy AI System (FSM, Suspicion, ScriptableObjects)
+    </summary>
+
+    <b>Advanced Enemy AI System</b> built with Unity using  
+    Finite State Machine, ScriptableObjects and perception systems.
+
+    <br><br>
+
+    🔹 Features:
+    <ul>
+        <li>FSM-based AI (Patrol / Investigate / Search / Chase)</li>
+        <li>Vision & sound perception</li>
+        <li>Suspicion system</li>
+        <li>Multiple enemy types (Melee / Range / Guard)</li>
+        <li>ScriptableObject-driven configuration</li>
+        <li>Clean and extensible architecture</li>
+    </ul>
+
+    <img src="GIF/enemy_ai_demo.gif" width="500"/>
+
+    <br>
+
+    <a href="https://github.com/yourname/EnemyAI">GitHub Repository</a>
+
+</details>
 
 + <details>
     <summary><a href="#"><img src="https://w7.pngwing.com/pngs/158/553/png-transparent-unity-technologies-video-games-3d-computer-graphics-software-developer-3ds-max-logo-thumbnail.png" alt="Unity" width="11" height="11" /></a> Ghost's Wokshop</summary>

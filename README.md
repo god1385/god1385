@@ -23,6 +23,8 @@
 
 <h2>🧠 Enemy AI System (Unity)</h2>
 
+<img src="https://raw.githubusercontent.com/god1385/enemy-ai-unity/main/Gif/basicOverview.gif" width="500"/>
+
 <b>Advanced AI system built with FSM & ScriptableObjects</b>
 
 <ul>

@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Personal Pet Project**
 
-- 🌱 I’m currently learning **C#, C++, Unity Engine**
+- 🌱 I’m currently learning **C#, Unity Engine**
 
 <h3 align="left">Contacts:</h3>
 <p align="left">
@@ -21,40 +21,26 @@
 
 
 
-<details>
-<summary>
-    <img src="https://w7.pngwing.com/pngs/158/553/png-transparent-unity-technologies-video-games-3d-computer-graphics-software-developer-3ds-max-logo-thumbnail.png"
-         width="11" height="11" />
-    Unity
-</summary>
+<h2>🧠 Enemy AI System (Unity)</h2>
 
-<br>
+<b>Advanced AI system built with FSM & ScriptableObjects</b>
 
-<b>Unity is my main game development platform.</b><br>
-Projects sorted from latest to oldest.
-
----
-
-### 🧠 Enemy AI System (FSM, Suspicion, ScriptableObjects)
-
-<b>Advanced Enemy AI System</b> built with Unity using:
 <ul>
-    <li>Finite State Machine (FSM)</li>
-    <li>Vision & sound perception</li>
-    <li>Suspicion system</li>
-    <li>Multiple enemy types (Melee / Range / Guard)</li>
-    <li>ScriptableObject-driven architecture</li>
+  <li>Finite State Machine (Patrol / Investigate / Chase)</li>
+  <li>Vision & sound perception</li>
+  <li>Suspicion system</li>
+  <li>Enemy types: Melee / Range / Guard</li>
+  <li>Clean & scalable architecture</li>
 </ul>
 
-<img src="GIF/enemy_ai_demo.gif" width="500"/>
+<img src="GIF/enemy_ai_demo.gif" width="550"/>
 
-<a href="https://github.com/god1385/enemy-ai-unity">GitHub Repository</a>
+🔗 <a href="https://github.com/god1385/enemy-ai-unity">GitHub Repository</a>
 
----
+<h2>🎮 Other Unity Projects</h2>
 
-### 👻 Ghost's Workshop
-
-Short interactive story about family, art and memories.
+<h3>👻 Ghost's Workshop</h3>
+Short interactive story about family and art.
 
 <img src="https://img.itch.zone/aW1nLzEyNDc5NTAzLnBuZw==/original/mJ8Nsh.png" width="500"/>
 
@@ -63,8 +49,7 @@ Short interactive story about family, art and memories.
 
 ---
 
-### 🤖 Robot Walks
-
+<h3>🤖 Robot Walks</h3>
 Mobile shooter prototype (Work in Progress)
 
 <img src="https://img.youtube.com/vi/AVE7itGTmLs/0.jpg" width="500"/>
@@ -72,6 +57,15 @@ Mobile shooter prototype (Work in Progress)
 <a href="https://github.com/Ferundal/Robot_Walks">GitHub</a> |
 <a href="https://www.youtube.com/watch?v=AVE7itGTmLs">Gameplay</a>
 
-</details>
+<details>
+<summary><b>🎓 Ecole 42 Projects</b></summary>
 
-<details> <summary><a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/42_Logo.svg/240px-42_Logo.svg.png" alt="Ecole 42" width="11" height="11"></a> Ecole 42</summary> Following projects was made during my education in Russian campus of <a href="https://en.wikipedia.org/wiki/42_(school)" target="blank">Ecole 42</a> programming school. From latest to oldest. + <details> <summary><a href="https://github.com/god1385/so_long" target="blank">So_Long</a></summary> Small game in 2D, written in C. Aim of the game is to collect coins on the map, which is parsed every turn and. Small sprites animation and AI included. </details> + <details> <summary><a href="https://github.com/god1385/Philosophers" target="blank">Philosophers</a></summary> The Dining Philosopher Problem meet me with multitreading and multiprocessing. Mutexs, semaphores and etic. </details> + <details> <summary><a href="https://github.com/god1385/push_swap" target="blank">Push_swap</a></summary> Sorting of two stacks of integers using radix sorting method </details> + <details> <summary><a href="https://github.com/god1385/CPP-Modules" target="blank">CPP-Modules</a></summary> Collection of tasks, aimed at learing C++ language and getting to know the basics and advanced issues related to the C++. Code follow <a href="https://github.com/42School/norminette/blob/master/pdf/en.norm.pdf" target="blank">specific Ecole 42 code style</a>. </details> + <details> <summary><a href="https://github.com/god1385/minitalk" target="blank">Minitalk</a></summary> Small project aimed at introduction to UNIX skills and creating small data exchange program </details> </details>
+<ul>
+<li><a href="https://github.com/god1385/so_long">So_Long</a> — 2D game in C</li>
+<li><a href="https://github.com/god1385/Philosophers">Philosophers</a> — multithreading</li>
+<li><a href="https://github.com/god1385/push_swap">Push_swap</a> — sorting algorithms</li>
+<li><a href="https://github.com/god1385/CPP-Modules">CPP Modules</a></li>
+<li><a href="https://github.com/god1385/minitalk">Minitalk</a></li>
+</ul>
+
+</details>

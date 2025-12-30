@@ -16,6 +16,18 @@
 <a href="https://discordapp.com/users/240520940981583874" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/669/539/png-transparent-logo-guessing-game-application-screenshot-discord-social-media-computer-icons-discord-icon-miscellaneous-blue-computer-wallpaper-thumbnail.png" alt="god1385" height="30" width="30" /></a> <a href="https://discordapp.com/users/240520940981583874" target="blank">god1385</a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=god1385&label=Profile%20views&color=blue&style=flat" />
+  <img src="https://img.shields.io/badge/Unity-Developer-black?logo=unity" />
+  <img src="https://img.shields.io/badge/C%23-Developer-239120?logo=csharp" />
+  <img src="https://img.shields.io/badge/Game%20AI-FSM%20%7C%20SO-orange" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=god1385&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=god1385&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
 ---
 <h3 align="left">My projects:</h3>
 

@@ -46,6 +46,30 @@
 
 🔗 <a href="https://github.com/god1385/enemy-ai-unity">GitHub Repository</a>
 
+<h2>🧩 Modular Tower System (Unity)</h2>
+
+<img src="Gifs/DefaultMechanic.gif" width="500"/>
+
+<b>Data-driven tower stacking system with clean separation of logic and visuals</b>
+
+<ul>
+  <li>Strict separation between <b>View</b> and <b>Service</b> layers</li>
+  <li>Pure data-based <b>TowerState</b> (no MonoBehaviours inside)</li>
+  <li>Placement logic via <b>ITowerPlacement</b> & <b>ICubePlacement</b></li>
+  <li>Animated rebuild after cube removal</li>
+  <li>Save / Load via service layer</li>
+  <li>Designed for extensibility (rules, visuals, configs)</li>
+</ul>
+
+<p>
+🔹 <b>Architecture highlights:</b><br/>
+TowerService contains all gameplay logic and state mutation.<br/>
+TowerView is responsible only for input handling and animations.<br/>
+No visual references are stored inside the data layer.
+</p>
+
+🔗 <a href="[https://github.com/god1385/your-tower-repo-name](https://github.com/god1385/TestAssignment)">GitHub Repository</a>
+
 <h2>🎮 Other Unity Projects</h2>
 
 <h3>👻 Ghost's Workshop</h3>

@@ -42,13 +42,11 @@
   <li>Clean & scalable architecture</li>
 </ul>
 
-<img src="GIF/enemy_ai_demo.gif" width="550"/>
-
 🔗 <a href="https://github.com/god1385/enemy-ai-unity">GitHub Repository</a>
 
 <h2>🧩 Modular Tower System (Unity)</h2>
 
-<img src="Gifs/DefaultMechanic.gif" width="500"/>
+<img src="https://raw.githubusercontent.com/god1385/TestAssignment/master/Gifs/DefaultMechanic.gif" width="500"/>
 
 <b>Data-driven tower stacking system with clean separation of logic and visuals</b>
 
@@ -68,7 +66,7 @@ TowerView is responsible only for input handling and animations.<br/>
 No visual references are stored inside the data layer.
 </p>
 
-🔗 <a href="[https://github.com/god1385/your-tower-repo-name](https://github.com/god1385/TestAssignment)">GitHub Repository</a>
+🔗 <a href="https://github.com/god1385/TestAssignment">GitHub Repository</a>
 
 <h2>🎮 Other Unity Projects</h2>
 

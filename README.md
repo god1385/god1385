@@ -1,32 +1,67 @@
 <h1 align="center">Hi 👋, I'm Valentin Galperin</h1>
-<h3 align="center">Also known as god1385, i love video games and creating them.
+<h3 align="center">Also known as <b>god1385</b>. I love making games and gameplay systems in Unity.</h3>
 
-- 🔭 I’m currently working on **Personal Pet Project**
-
-- 🌱 I’m currently learning **C#, Unity Engine**
+- 🔭 I’m currently focused on **Ludum Dare 2026: Foreign Frequency**
+- 🌱 I’m improving in **C#, Unity Engine, architecture & reactive UI flow**
+- 🎮 Main featured project: **ludum-dare2026**
 
 <h3 align="left">Contacts:</h3>
 <p align="left">
-<a href="https://galperin2000@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/320px-Gmail_Icon_%282013-2020%29.svg.png" alt="Gmail" height="30" width="30" /></a> <a href="https://galperin2000@gmail.com" target="blank"> galperin2000@gmail.com</a>
+<a href="mailto:galperin2000@gmail.com" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/320px-Gmail_Icon_%282013-2020%29.svg.png" alt="Gmail" height="30" width="30" />
+</a>
+<a href="mailto:galperin2000@gmail.com" target="blank"> galperin2000@gmail.com</a>
 </p>
+
 <p align="left">
-<a href="https://t.me/bobik1385" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/240px-Telegram_2019_Logo.svg.png" alt="Telegram" height="30" width="30" /></a> <a href="https://t.me/gbobd85" target="blank">@gbobd85</a>
+<a href="https://t.me/gbobd85" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/240px-Telegram_2019_Logo.svg.png" alt="Telegram" height="30" width="30" />
+</a>
+<a href="https://t.me/gbobd85" target="blank">@gbobd85</a>
 </p>
+
 <p align="left">
-<a href="https://discordapp.com/users/240520940981583874" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/669/539/png-transparent-logo-guessing-game-application-screenshot-discord-social-media-computer-icons-discord-icon-miscellaneous-blue-computer-wallpaper-thumbnail.png" alt="god1385" height="30" width="30" /></a> <a href="https://discordapp.com/users/240520940981583874" target="blank">god1385</a>
+<a href="https://discordapp.com/users/240520940981583874" target="blank">
+  <img align="center" src="https://w7.pngwing.com/pngs/669/539/png-transparent-logo-guessing-game-application-screenshot-discord-social-media-computer-icons-discord-icon-miscellaneous-blue-computer-wallpaper-thumbnail.png" alt="Discord" height="30" width="30" />
+</a>
+<a href="https://discordapp.com/users/240520940981583874" target="blank">god1385</a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=god1385&label=Profile%20views&color=blue&style=flat" />
   <img src="https://img.shields.io/badge/Unity-Developer-black?logo=unity" />
   <img src="https://img.shields.io/badge/C%23-Developer-239120?logo=csharp" />
-  <img src="https://img.shields.io/badge/Game%20AI-FSM%20%7C%20SO-orange" />
+  <img src="https://img.shields.io/badge/Game%20Architecture-Zenject%20%7C%20UniRx-orange" />
 </p>
 
+---
+
+<h2>🚀 Featured Project — Foreign Frequency (Ludum Dare 2026)</h2>
+
+<b>A narrative terminal-based puzzle game made for Ludum Dare 59.</b><br/>
+Decode incoming messages, progress through the terminal flow, and reach different endings.
+
+<p>
+  <img src="https://raw.githubusercontent.com/god1385/ludum-dare2026/main/Gifs/01-core-loop.gif" width="500" />
+</p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/god1385/ludum-dare2026/main/Gifs/02-bad-ending.gif" width="500" />
+</p>
+
+<ul>
+  <li>Reactive game flow with <b>UniRx</b></li>
+  <li>Dependency injection with <b>Zenject</b></li>
+  <li>Branching ending system (good / bad flow)</li>
+  <li>Desktop-style UI with terminal interaction</li>
+  <li>Custom UX touches: splash flow, notifications, cursor/audio feedback</li>
+</ul>
+
+🔗 <a href="https://github.com/god1385/ludum-dare2026">GitHub Repository</a>
 
 ---
-<h3 align="left">My projects:</h3>
 
+<h3 align="left">Other Projects:</h3>
 
 <h2>🧠 Enemy AI System (Unity)</h2>
 
@@ -58,13 +93,6 @@
   <li>Save / Load via service layer</li>
   <li>Designed for extensibility (rules, visuals, configs)</li>
 </ul>
-
-<p>
-🔹 <b>Architecture highlights:</b><br/>
-TowerService contains all gameplay logic and state mutation.<br/>
-TowerView is responsible only for input handling and animations.<br/>
-No visual references are stored inside the data layer.
-</p>
 
 🔗 <a href="https://github.com/god1385/TestAssignment">GitHub Repository</a>
 

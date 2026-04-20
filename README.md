@@ -8,21 +8,21 @@
 <h3 align="left">Contacts:</h3>
 <p align="left">
 <a href="mailto:galperin2000@gmail.com" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/320px-Gmail_Icon_%282013-2020%29.svg.png" alt="Gmail" height="30" width="30" />
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" alt="Gmail" height="30" width="30" />
 </a>
 <a href="mailto:galperin2000@gmail.com" target="blank"> galperin2000@gmail.com</a>
 </p>
 
 <p align="left">
 <a href="https://t.me/gbobd85" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/240px-Telegram_2019_Logo.svg.png" alt="Telegram" height="30" width="30" />
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/telegram.svg" alt="Telegram" height="30" width="30" />
 </a>
 <a href="https://t.me/gbobd85" target="blank">@gbobd85</a>
 </p>
 
 <p align="left">
 <a href="https://discordapp.com/users/240520940981583874" target="blank">
-  <img align="center" src="https://w7.pngwing.com/pngs/669/539/png-transparent-logo-guessing-game-application-screenshot-discord-social-media-computer-icons-discord-icon-miscellaneous-blue-computer-wallpaper-thumbnail.png" alt="Discord" height="30" width="30" />
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/discord.svg" alt="Discord" height="30" width="30" />
 </a>
 <a href="https://discordapp.com/users/240520940981583874" target="blank">god1385</a>
 </p>
@@ -39,7 +39,8 @@
 <h2>🚀 Featured Project — Foreign Frequency (Ludum Dare 2026)</h2>
 
 <b>A narrative terminal-based puzzle game made for Ludum Dare 59.</b><br/>
-Decode incoming messages, progress through the terminal flow, and reach different endings.
+Decode incoming messages, progress through the terminal flow, and reach different endings.<br/>
+<b>Play now:</b> <a href="https://dvan1337.itch.io/foreign-frequency">itch.io build</a>
 
 <p>
   <img src="https://raw.githubusercontent.com/god1385/ludum-dare2026/main/Gifs/01-core-loop.gif" width="500" />
@@ -57,7 +58,10 @@ Decode incoming messages, progress through the terminal flow, and reach differen
   <li>Custom UX touches: splash flow, notifications, cursor/audio feedback</li>
 </ul>
 
-🔗 <a href="https://github.com/god1385/ludum-dare2026">GitHub Repository</a>
+<p>
+  🔗 <a href="https://github.com/god1385/ludum-dare2026">GitHub Repository</a> |
+  🎮 <a href="https://dvan1337.itch.io/foreign-frequency">Play on itch.io</a>
+</p>
 
 ---
 
